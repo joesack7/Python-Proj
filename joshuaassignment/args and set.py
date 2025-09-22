@@ -4,4 +4,5 @@ def merge_lists(*lists):
         for item in num:
             if item not in final:
                 final.append(item)
+
     return final
